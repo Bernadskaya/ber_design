@@ -1,0 +1,89 @@
+body {
+    font-family: "Helvetica Neue Light", "Helvetica", "Tahoma", "Arial";
+}
+
+a {
+    color: #000000;
+}
+
+h3, h2 {
+    font-family: "Helvetica Neue Light", "Helvetica", "Tahoma", "Arial";
+font-weight: 300;
+}
+.sky {
+    color: #b7dde8;
+}
+
+.teamilk {
+    color: #847567;
+}
+
+.circleImg {
+    height: 150px;
+    width: 150px;
+    background-color: #fff;
+    border-color: #847567;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50%;
+    text-align: center;
+}
+
+
+.circle {
+    height: 150px;
+    width: 150px;
+    background-color: #fff;
+    border-color: #847567;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    line-height: 100px;
+}
+
+.circle a {
+    font-size: 1.5em;
+    color: #847567;
+    font-family: "monospaced","Garamond", "Times New Roman";
+    font-style: italic;
+
+}
+
+.circle:hover {
+    background-color: #847567;
+    color: #ffffff;
+}
+.circle:hover a {
+    color: #ffffff;
+}
+.classicFont {
+    font-family: "Garamond", "Times New Roman";
+
+}
+.skyCircle {
+    height: 280px;
+    width: 280px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    background-color: #b7dde8;
+    margin: 0 auto;
+    display: block;
+}
+
+.pay {
+    font-size: 2em;
+line-height: 180px;
+}
+.price {
+    font-weight: 700;
+    font-size: 4em;
+}
+.base {
+    margin-top: 200px;
+}
